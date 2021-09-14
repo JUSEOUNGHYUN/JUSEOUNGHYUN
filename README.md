@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=OneDayOneCommit%20&fontSize=60)
 
+승현이의 VS Code 저장소
 ### Hi there 👋
 
 <!--
