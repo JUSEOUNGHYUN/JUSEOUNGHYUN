@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=OneDayOneCommit%20&fontSize=60)
 
-http://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white
+#00599C
 
 
 승현이의 VS Code 저장소
