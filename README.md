@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=OneDayOneCommit%20&fontSize=60)
 
-<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp
-<a href="링크걸_주소"><img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white&link=내링크"/></a>&nbsp
-
+http://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white
 
 
 승현이의 VS Code 저장소
