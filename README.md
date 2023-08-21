@@ -16,7 +16,7 @@ __email__ : wntmdgus369@gmail.com
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Postgresql-#4169E1?style=flat-square&logo=Postgresql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=Postgresql&logoColor=white"/></a>
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JUSEOUNGHYUN)](https://github.com/anuraghazra/github-readme-stats)
