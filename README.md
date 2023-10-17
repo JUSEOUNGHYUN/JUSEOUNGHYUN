@@ -19,11 +19,3 @@ __email__ : wntmdgus369@gmail.com
 <img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=Postgresql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Microsoft Sql Server-CC2927?style=flat-square&logo=Microsoft Sql Server&logoColor=white"/></a>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JUSEOUNGHYUN)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUSEOUNGHYUN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hellper3256">
-
-
-
