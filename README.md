@@ -9,9 +9,13 @@ __email__ : wntmdgus369@gmail.com
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white"/></a>
 
+# FRAMEWORK
+<img src="https://img.shields.io/badge/MFC-239120?style=flat-square&logo=MFC&logoColor=white"/> <img src="https://img.shields.io/badge/WPF-007ACC?style=flat-square&logo=WPF&logoColor=white"/> <img src="https://img.shields.io/badge/Windows Forms-0C54C2?style=flat-square&logo=Windows Forms&logoColor=white"/>
+
 # TOOL
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=Postgresql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Microsoft Sql Server-CC2927?style=flat-square&logo=Microsoft Sql Server&logoColor=white"/></a>
+
 
