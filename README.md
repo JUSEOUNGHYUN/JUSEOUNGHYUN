@@ -1,8 +1,13 @@
-# TMI 
-__blog__ : https://succeeed3256.tistory.com/  
-__email__ : wntmdgus369@gmail.com  
+# 🔥 SeoungHyun Ju
+__Age__ : Born in 1998 👶 <br/>
+__Job__ : Software Developer 👨‍💼 <br/>
+__Blog__ : https://succeeed3256.tistory.com/ <br/>
+__Email__ : wntmdgus369@gmail.com  
+
 # SKILL
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/XAML-0C54C2?style=flat-square&logo=XAML&logoColor=white"/></a>
+
+
 
 # LIBRARY  
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
